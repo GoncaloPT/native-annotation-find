@@ -21,7 +21,7 @@ target/native-annotation-find
 ## Already tried fixes
 
 ### reflect-config.json
-The first approach was to try to add the used classes in reflect-config.json so that somehow the could be "seen"
+The first approach was to try to add the used classes in reflect-config.json so that somehow they could be "seen"
 in runtime.
 
 ### @RegisterReflectionForBinding
