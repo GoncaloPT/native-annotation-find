@@ -74,11 +74,9 @@ The situation was solved. The final version of resource-config.json is:
   "resources": {
     "includes": [
       {
-        "pattern": "\\Qpt/goncalo/\\E.+\\.class$"
+        "pattern": "\\Qpt/goncalo/\\E.+"
       }
     ]
   }
 }
-
-
 ```
